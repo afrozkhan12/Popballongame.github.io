@@ -1,0 +1,21 @@
+
+     
+     #game-container {
+        width: 800px;
+        height: 600px;
+        background-color: lightblue;
+        position: relative;
+    }
+    .balloon {
+        width: 100px;
+        height: 150px;
+        position: absolute;
+        cursor: pointer;
+
+    }
+    .balloon1 {
+        width: 100px;
+        height: 150px;
+        position: absolute;
+        cursor: pointer;
+    }
